@@ -47,6 +47,7 @@ A program fordításához használandó parancs:
 ## Screenshots
 
 Output:
+
 ![OUTPUT_PLACEHOLDER](https://edu.varga-levente.engineer/public_docs/rkp_chart.bmp)
 
 
